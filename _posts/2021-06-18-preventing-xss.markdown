@@ -4,9 +4,10 @@ title:  "Preventing XSS"
 date:   2021-06-18 06:23:02 +0530
 categories: XSS
 ---
-Intro. Ini isi pertama abis Lorem Ipsum, diisi beginian biar keliatan agak bermanfaat.
+Intro. Ini intro biar muncul di homepage. Deskripsi lah gampangnya. Ini isi pertama abis Lorem Ipsum, diisi beginian biar keliatan agak bermanfaat.
 
-*Ini cuma beberapa cara mencegah XSS, masih ada banyak cara lain yang bisa dipake.
+Ini cuma beberapa cara mencegah XSS, masih ada banyak cara lain yang bisa dipake.
+
 
 Escaping
 ----------------
