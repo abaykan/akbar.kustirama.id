@@ -107,7 +107,14 @@ kbd {
   padding: 0.01em 0.4em;
   text-shadow: 0 1px 0 $white;
 }
-
+// Video
+video {
+  max-width: 100%;
+  vertical-align: middle;
+  -webkit-user-drag: none;
+  margin: 0 auto;
+  text-align: center;
+}
 // Image
 img {
   max-width: 100%;
