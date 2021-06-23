@@ -26,7 +26,6 @@
   <a class="footer_item" href="/feed.xml">rss</a>
   <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
   <small class="footer_copyright">
-    <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
     <a
       href="https://github.com/piharpi/jekyll-klise"
       target="_blank"
@@ -34,9 +33,7 @@
       >klisé</a
     >
     theme on
-    <a href="https://jekyllrb.com" target="_blank" rel="noreferrer noopener"
-      >jekyll</a
-    >
+    jekyll
   </small>
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
@@ -48,7 +45,7 @@
     galite.UA = "{{ site.google_analytics }}";
   </script>
 {%- endif -%}
-{%- if page.url == '/archive/' -%}
+{%- if page.url == '/' -%}
   <script src="/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
