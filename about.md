@@ -18,7 +18,7 @@ Saya sempat dihadiahi merchandise dari beberapa perusahaan di Indonesia seperti 
 
 Merchandise tersebut saya dapatkan sebagai reward atas temuan celah keamanan yang saya temukan. Karena tidak mendapat izin, saya tidak mem-publish temuan-temuan bug tersebut.
 
-Informasi lebih lanjut tentang perusahaan-perusahaan yang pernah berhubungan dengan saya terkait program bug bounty dan sebagainya, bisa dilihat pada halaman (portfolio)[https://abaykan.com/portfolio/].
+Informasi lebih lanjut tentang perusahaan-perusahaan yang pernah berhubungan dengan saya terkait program bug bounty dan sebagainya, bisa dilihat pada halaman [portfolio](https://abaykan.com/portfolio/).
 
 
 
