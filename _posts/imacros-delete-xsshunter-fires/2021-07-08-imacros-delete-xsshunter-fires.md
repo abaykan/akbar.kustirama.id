@@ -22,8 +22,8 @@ TAG POS=5 TYPE=BUTTON ATTR=CLASS:"delete_injection_button btn btn-danger btn-blo
 WAIT SECONDS=2
 ```
 
-Kode di atas berarti menginstruksikan iMacros untuk *klik* HTML Tag dengan class `delete_injection_button btn btn-danger btn-block` selama 5 kali (jumlah item yang harus dihapus di satu halaman). Lalu `WAIT SECONDS=2` untuk menunggu loading saat item dihapus.
+Kode di atas berarti menginstruksikan iMacros untuk *klik* Tag HTML dengan class `delete_injection_button btn btn-danger btn-block` sebanyak 5 kali (jumlah item yang harus dihapus di satu halaman). Lalu `WAIT SECONDS=2` untuk menunggu loading saat item dihapus.
 
-Jalankan script secara loop (Play Loop) sesuai jumlah halaman.
+Jalankan script menggunakan "Play Loop" sesuai jumlah halaman.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/cWwGf4rZEEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
