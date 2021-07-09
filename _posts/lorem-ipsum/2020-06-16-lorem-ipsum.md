@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum
 date: 2020-06-16 10:00:00 +07:00
-tags: [tulisan]
+tags: [Tulisan]
 description: Lorem Ipsum dolor sit amet.
 ---
 
