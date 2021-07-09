@@ -1,7 +1,7 @@
 ---
 title: "iMacros: Delete XSS Hunter Fires"
 date: 2021-07-08 10:00:00 +07:00
-tags: [iMacros]
+tags: [iMacros, Bot]
 description: Bot delete triggered payload XSS Hunter.
 image: /imacros-delete-xsshunter-fires/screencapture-xsshunter-app-2021-07-08.png
 ---

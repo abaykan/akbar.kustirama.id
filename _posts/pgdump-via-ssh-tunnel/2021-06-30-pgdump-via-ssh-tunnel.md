@@ -1,7 +1,7 @@
 ---
 title: pg_dump via SSH Tunnel
 date: 2021-06-30 10:00:00 +07:00
-tags: [PostgresSQL]
+tags: [PostgresSQL, SSH]
 description: This turned out to be simple, here are the two commands I used.
 ---
 I've not had all that much experience with tunneling via SSH before, usually if I want to access a database I'm using something like _pgAdmin4_ so setting up an SSH tunnel by hand doesn't usually need to be done.
