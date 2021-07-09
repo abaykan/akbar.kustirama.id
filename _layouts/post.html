@@ -94,6 +94,10 @@ layout: compress
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
       })();
+      function deleteDisqusAds() {
+          document.querySelector('[id^="dsq-"]').remove();
+      }
+      setTimeout("deleteDisqusAds()", 3000);
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   </div>
