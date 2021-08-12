@@ -2,13 +2,17 @@
   url: /
   external: false
 
+- title: About
+  url: /me/
+  external: false 
+
+- title: Portfolio
+  url: /portfolio/
+  external: false 
+
 - title: Tags
   url: /tags/
   external: false
-
-- title: About
-  url: /me/
-  external: false # set true if you using external link, see below
 
 # Example:
 # - title: github
