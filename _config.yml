@@ -24,7 +24,7 @@ url: "https://akbar.kustirama.id" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
-fb_appid:
+fb_appid: "232602895406519"
 
 # Collection setting
 collections:
