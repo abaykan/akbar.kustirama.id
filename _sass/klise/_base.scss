@@ -328,6 +328,20 @@ sup {
   overflow-x: auto;
 }
 
+table#utama {
+  margin-top: 1%;
+  margin-bottom:1%;
+  tbody {
+    border:none;
+  }
+
+  th,
+  td,
+  tr {
+    border:none;
+  }
+}
+
 table {
   width: 100%;
   margin-top: $spacing-half;

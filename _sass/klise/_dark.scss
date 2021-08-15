@@ -13,6 +13,21 @@ body[data-theme="dark"] {
   }
 
   // Table
+  table#utama {
+  margin-top: 1%;
+  margin-bottom:1%;
+    tbody {
+      color: $dark-white;
+      border:none;
+    }
+
+    th,
+    td,
+    tr {
+      border:none;
+    }
+  }
+
   table {
     thead {
       color: $dark-white;
