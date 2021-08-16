@@ -10,6 +10,10 @@
   url: /portfolio/
   external: false 
 
+- title: Medium
+  url: https://minumbarunulis.medium.com/
+  external: true
+
 - title: Tags
   url: /tags/
   external: false

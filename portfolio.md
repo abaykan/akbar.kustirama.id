@@ -41,16 +41,16 @@ layout: page
 <p><strong>Tulisan</strong></p>
 
 <ul>
-    <li><a href="https://abaykan.com/tirto-bug-bounty-miskonfigurasi-server-tirtoid/">Tirto Bug Bounty - Miskonfigurasi pada Server Tirto</a></li>
-    <li>[Website Redacted] <a href="https://abaykan.com/miskonfigurasi-hingga-login-ke-email-situs-berita-di-indonesia/">Login Email Situs Media Indonesia</a></li>
-    <li>[Website Redacted] <a href="https://abaykan.com/sql-injection-pada-situs-media-indonesia/">SQL Injection pada Situs Media Indonesia</a></li>
-    <li>[Website Redacted] <a href="https://abaykan.com/xss-pada-halaman-login/">XSS pada Halaman Login</a></li>
-    <li><a href="https://abaykan.com/olx-bug-bounty-reflected-xss/">OLX Bug Bounty - Reflected XSS</a></li>
-    <li><a href="https://abaykan.com/readable-htaccess-tokopedia/">Readable htaccess Tokopedia</a></li>
-    <li><a href="https://abaykan.com/mengejar-hall-of-fame-codepolitan/">Mengejar Hall of Fame Codepolitan</a></li>
-    <li><a href="https://abaykan.com/nokia-open-redirect-to-xss/">Nokia Open Redirect to XSS</a></li>
-    <li><a href="https://abaykan.com/bukalapak-bug-bounty-reflected-xss-komunitas-bukalapak/">Bukalapak Bug Bounty - Reflected XSS</a></li>
-    <li><a href="https://abaykan.com/bug-bounty-tokopedia-careers-page/">Bug Bounty Tokopedia - Reflected XSS Carrers Page</a></li>
+    <li><a href="https://akbar.kustirama.id/tirto-bug-bounty-miskonfigurasi-server-tirtoid/">Tirto Bug Bounty - Miskonfigurasi pada Server Tirto</a></li>
+    <li>[Website Redacted] <a href="https://akbar.kustirama.id/miskonfigurasi-hingga-login-ke-email-situs-berita-di-indonesia/">Login Email Situs Media Indonesia</a></li>
+    <li>[Website Redacted] <a href="https://akbar.kustirama.id/sql-injection-pada-situs-media-indonesia/">SQL Injection pada Situs Media Indonesia</a></li>
+    <li>[Website Redacted] <a href="https://akbar.kustirama.id/xss-pada-halaman-login/">XSS pada Halaman Login</a></li>
+    <li><a href="https://akbar.kustirama.id/olx-bug-bounty-reflected-xss/">OLX Bug Bounty - Reflected XSS</a></li>
+    <li><a href="https://akbar.kustirama.id/readable-htaccess-tokopedia/">Readable htaccess Tokopedia</a></li>
+    <li><a href="https://akbar.kustirama.id/mengejar-hall-of-fame-codepolitan/">Mengejar Hall of Fame Codepolitan</a></li>
+    <li><a href="https://akbar.kustirama.id/nokia-open-redirect-to-xss/">Nokia Open Redirect to XSS</a></li>
+    <li><a href="https://akbar.kustirama.id/bukalapak-bug-bounty-reflected-xss-komunitas-bukalapak/">Bukalapak Bug Bounty - Reflected XSS</a></li>
+    <li><a href="https://akbar.kustirama.id/bug-bounty-tokopedia-careers-page/">Bug Bounty Tokopedia - Reflected XSS Carrers Page</a></li>
 </ul>
 
 <p><strong>Video</strong></p>
