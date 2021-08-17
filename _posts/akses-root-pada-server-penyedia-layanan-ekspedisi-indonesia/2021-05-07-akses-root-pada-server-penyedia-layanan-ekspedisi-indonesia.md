@@ -2,6 +2,8 @@
 title: "Akses Root pada Server Penyedia Layanan Ekspedisi Indonesia"
 date: "2021-05-07"
 tags: ['Write Up']
+description: "Write up untuk temuan bug yang saya laporkan ke penyedia layanan ekspedisi di Indonesia."
+image: /akses-root-pada-server-penyedia-layanan-ekspedisi-indonesia/images/screenshot-ekspedisi-4-1170x545-1-1024x477.png
 ---
 
 **Akses Root pada Server Penyedia Layanan Ekspedisi Indonesia** - Pos ini adalah _write up_ untuk temuan bug yang saya laporkan ke salah satu penyedia layanan ekspedisi di Indonesia. Temuan bug yang sederhana tapi memiliki _impact_ yang besar. Saya menemukan file konfigurasi sFTP di salah satu subdomain `*.redacted.co.id`.

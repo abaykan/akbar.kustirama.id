@@ -2,6 +2,8 @@
 title: "Pindahan ke Jekyll"
 date: "2021-08-17"
 tags: ['Tulisan']
+description: "Kenapa pindah dari WordPress? Kenapa Pindah ke Jekyll?"
+image: /pindahan-ke-jekyll/images/skrinsut-vercel.png
 ---
 
 **Pindahan ke Jekyll** - Dulu saat pertama ingin menulis di blog, saya mencari platform yang simple, gampang diatur dan murah. WordPress adalah platform _blogging_ paling terkenal saat itu (mungkin sampai sekarang). Sebenarnya persyaratan tadi sudah terpenuhi kalau saya tetap menggunakan WordPress, hanya saja, ada beberapa masalah di luar persyaratan tersebut yang akhirnya membuat saya memutuskan untuk pindah dan menggunakan Jekyll.

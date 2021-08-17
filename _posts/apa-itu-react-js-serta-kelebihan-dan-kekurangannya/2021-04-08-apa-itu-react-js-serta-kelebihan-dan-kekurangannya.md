@@ -2,6 +2,7 @@
 title: "Apa Itu React JS serta Kelebihan dan Kekurangannya"
 date: "2021-04-08"
 tags: ['Ads', 'Domainesia']
+description: "Kelebihan dan Kekurangan React JS"
 ---
 
 **Apa Itu React JS, serta Kelebihan dan Kekurangannya** - Para konsultan software tentu tidak asing lagi dengan React JS, karena library satu ini memiliki peran besar dalam perkembangan user interface, baik pada situs dan aplikasi. Namun, masih banyak yang tidak paham apa itu React JS, apalagi kelebihan dan kekurangannya.

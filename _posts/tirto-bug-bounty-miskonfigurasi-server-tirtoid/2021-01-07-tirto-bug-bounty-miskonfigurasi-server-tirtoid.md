@@ -2,6 +2,8 @@
 title: "Tirto Bug Bounty: Miskonfigurasi Server Tirto.id"
 date: "2021-01-07"
 tags: ['Write Up', 'Tirto']
+description: "Miskonfigurasi pada server Tirto.ID berujung ke Source Code Disclosure"
+image: /tirto-bug-bounty-miskonfigurasi-server-tirtoid/images/screenshot-tirto-2-ss.png
 ---
 
 **Tirto Bug Bounty: Miskonfigurasi Server Tirto.id** - Setelah sekian lama akhirnya ada yang mengizinkan saya mempublish temuan bug yang saya laporkan😂
