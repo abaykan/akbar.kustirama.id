@@ -17,14 +17,14 @@ author:
   twitter: abaykandotcom # twitter username
   facebook: abaaaay # facebook username
   email: akbar@kustirama.id # email adress
-  avatar: /assets/img/yha.jpeg # change with your own avatar
+  avatar: /assets/img/yha.png # change with your own avatar
 
 # URL settings
 url: "https://akbar.kustirama.id" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
-fb_appid: "232602895406519"
+fb_appid: 232602895406519
 
 # Collection setting
 collections:

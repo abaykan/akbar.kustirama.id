@@ -82,24 +82,28 @@ layout: compress
       {% include navigation.html %}
     {% endif %}
 
-    <div id="disqus_thread" style="margin-top: 2em;"></div>
+    <div class="disqus" style="margin-top: 2em;"></div>
     <script>
-      var disqus_config = function () {
-        this.page.url = '{{ page.url | absolute_url }}';
-        this.page.identifier = '{{ page.url | absolute_url }}';
-      };
-      (function() {
-        var d = document, s = d.createElement('script');
-        s.src = 'https://abaykan.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-      })();
-      function deleteDisqusAds() {
-          document.querySelector('[id^="dsq-"]').remove();
+      var imgs = document.getElementsByTagName("img");
+      for (let i = 0; i < imgs.length; i++) {
+        document.getElementsByTagName('img')[i].setAttribute('width', '100%');
+        document.getElementsByTagName('img')[i].setAttribute('height', '100%');
+        console.info('Resizing image ' + (i+1) + ' ... done')
       }
-      setTimeout("deleteDisqusAds()", 3000);
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    <script src="/assets/js/disqusloader.js"></script>
+    <script>
+      disqusLoader( '.disqus',
+      {
+        scriptUrl:    '//abaykan.disqus.com/embed.js',
+        disqusConfig: function()
+        {
+          this.page.identifier  = 'disqus-lazyload-demo';
+          this.page.url     = '{{site.url}}{{page.url}}';
+          this.page.title     = '{{page.title}}';
+        }
+      });
+    </script>
   </div>
 </body>
 
