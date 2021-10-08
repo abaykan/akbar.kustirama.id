@@ -2,21 +2,25 @@
   url: /
   external: false
 
-- title: About
+- title: Tentang Saya
   url: /me/
-  external: false 
+  external: false
+
+- title: Tulisan
+  url: /tulisan
+  external: false
 
 - title: Portfolio
   url: /portfolio/
   external: false 
 
-- title: Medium
-  url: https://minumbarunulis.medium.com/
-  external: true
-
 - title: Tags
   url: /tags/
   external: false
+
+- title: Medium
+  url: https://minumbarunulis.medium.com/
+  external: true
 
 # Example:
 # - title: github

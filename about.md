@@ -6,7 +6,7 @@ excerpt: Pengubah ide-ide menarik menjadi hal-hal yang indah—kadang juga rusak
 comments: false
 ---
 
-Saya Mukhammad Akbar, orang-orang memanggil saya `Abay`. Saya membuat beberapa hal hanya untuk bersenang-senang. Biasanya saya tidak bisa "hidup" tanpa Gudang Garam. Saya suka mengubah ide-ide menarik menjadi hal-hal yang indah—kadang berantakan. Saya juga kontributor dari situr dengan nama Codelatte, yang merupakan blog berbahasa Indonesia yang membahas pemrograman situs web.
+Saya Mukhammad Akbar, orang-orang memanggil saya `Abay`. Saya sering membuat sesuatu hanya untuk bersenang-senang. Biasanya saya tidak bisa “hidup” tanpa Gudang Garam. Saya suka mengubah ide-ide menarik menjadi hal-hal yang indah—kadang berantakan. Saya juga kontributor dari situr dengan nama Codelatte, yang merupakan blog berbahasa Indonesia yang membahas pemrograman situs web.
 
 ### Web Application Security Enthusiast
 
