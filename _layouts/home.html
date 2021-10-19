@@ -22,7 +22,7 @@ home: true
 
 <ul id="search-results"></ul>
 
-{%- for post in site.posts limit:5 -%}
+{%- for post in site.posts limit:10 -%}
   <article class="post-item">
     <span class="post-item-date">{{ post.date | date: "%b %d" }}</span>
     <h3 class="post-item-title">
