@@ -10,16 +10,16 @@
   url: /tulisan
   external: false
 
-- title: Portfolio
-  url: /portfolio/
-  external: false 
-
 - title: Tags
   url: /tags/
   external: false
 
+- title: Portfolio
+  url: /portfolio/
+  external: false 
+
 - title: Helper
-  url: https://abay.kustirama.id/
+  url: https://helper.kustirama.id/
   external: true
   
 - title: Medium
