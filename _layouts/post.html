@@ -81,30 +81,8 @@ layout: compress
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
-
-    <div class="disqus" style="margin-top: 2em;"></div>
-    <script>
-      var imgs = document.getElementsByTagName("img");
-      for (let i = 0; i < imgs.length; i++) {
-        document.getElementsByTagName('img')[i].setAttribute('width', '100%');
-        document.getElementsByTagName('img')[i].setAttribute('height', '100%');
-        console.info('Resizing image ' + (i+1) + ' ... done')
-      }
-    </script>
-    <script src="{{site.url}}/assets/js/disqusloader.js"></script>
-    <script>
-      disqusLoader( '.disqus',
-      {
-        scriptUrl:    '//abaykan.disqus.com/embed.js',
-        disqusConfig: function()
-        {
-          this.page.identifier  = 'disqus-lazyload-demo';
-          this.page.url     = '{{site.url}}{{page.url}}';
-          this.page.title     = '{{page.title}}';
-        }
-      });
-    </script>
   </div>
+  {% include footer.html %}
 </body>
 
 </html>

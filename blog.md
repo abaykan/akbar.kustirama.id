@@ -1,6 +1,6 @@
 ---
-title: Tulisan
-permalink: /tulisan/
+title: Blog
+permalink: /blog/
 layout: page
 excerpt: Arsip tulisan
 comments: false

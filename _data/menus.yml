@@ -2,29 +2,17 @@
   url: /
   external: false
 
-- title: Tentang Saya
+- title: About
   url: /me/
   external: false
 
-- title: Tulisan
-  url: /tulisan
-  external: false
-
-- title: Tags
-  url: /tags/
+- title: Blog
+  url: /blog
   external: false
 
 - title: Portfolio
   url: /portfolio/
   external: false 
-
-- title: Helper
-  url: https://helper.kustirama.id/
-  external: true
-  
-- title: Medium
-  url: https://minumbarunulis.medium.com/
-  external: true
 
 # Example:
 # - title: github
