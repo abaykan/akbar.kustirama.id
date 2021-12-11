@@ -1,14 +1,14 @@
 // Fonts preferences
-$sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
-$base-font-size: 16px;
+$sans-family: 'IBM Plex Mono', monospace;
+$mono-family: 'IBM Plex Mono', monospace;
+$base-font-size: 14px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 
 // Font weight
 // $light-weight: 300; // uncomment if necessary
-$normal-weight: 400;
+$normal-weight: 100;
 $bold-weight: 700;
 // $black-weight: 900; // uncomment if necessary
 
@@ -28,15 +28,15 @@ $dark-text-base-color: #c7bebe;
 $dark-text-link-blue: #ff5277;
 $dark-text-link-blue-active: #ff2957;
 
-$dark-black: #131418;
+$dark-black: #111111;
 $dark-white: #eaeaea;
 $dark-light: #1b1d25;
 $dark-smoke: #4a4d56;
 $dark-gray: #767f87;
 
 // Width of the content area
-$wide-size: 890px;
-$narrow-size: 720px;
+$wide-size: 850px;
+$narrow-size: 680px;
 
 // Padding unit
 $spacing-full: 30px;
