@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang='{{ page.lang | default: site.lang | default: "en" }}'>
 
 {% include header.html %}
 
@@ -82,6 +82,15 @@ layout: compress
       {% include navigation.html %}
     {% endif %}
   </div>
+  <script>
+    window.onload = function(e){ 
+        for (var links = document.links, i = 0, a; a = links[i]; i++) {
+          if (a.host !== location.host) {
+                  a.target = '_blank';
+          }
+        }
+    }
+  </script>
   {% include footer.html %}
 </body>
 
