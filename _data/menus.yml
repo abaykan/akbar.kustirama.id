@@ -12,7 +12,11 @@
 
 - title: Portfolio
   url: /portfolio/
-  external: false 
+  external: false
+
+- title: Codelatte
+  url: https://codelatte.id/
+  external: true
 
 # Example:
 # - title: github

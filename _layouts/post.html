@@ -31,7 +31,7 @@ layout: compress
   {% include navbar.html %}
   <div class="wrapper post">
     <main class="page-content" aria-label="Content">
-      <article itemscope itemtype="https://schema.org/BlogPosting">
+      <article itemscope itemtype="https://schema.org/TechArticle">
 
         <header class="header">
           {% if page.tags and page.tags != empty %}
@@ -53,6 +53,7 @@ layout: compress
             </time>
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ site.author.name }}</span>
+              <span itemprop="url">https://akbar.kustirama.id/</span>
             </span>
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
