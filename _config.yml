@@ -1,3 +1,8 @@
+# Custom Reponse Header
+webrick:
+  headers:
+    Contact: mailto:akbar@kustirama.id
+
 # Site settings
 title: akbar.kustirama.id # site title
 description: Another place to write.

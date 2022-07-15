@@ -7,14 +7,6 @@
   transition: background-color 75ms ease-in, border-color 75ms ease-in;
 }
 
-.notransition {
-  -webkit-transition: none;
-  -moz-transition: none; 
-  -ms-transition: none;
-  -o-transition: none;
-  transition: none;
-}
-
 html {
   overflow-x: hidden;
   width: 100%;
@@ -159,32 +151,6 @@ ul {
   }
 }
 
-ol {
-  list-style: none;
-  counter-reset: li;
-  li {
-    position: relative;
-    counter-increment: li;
-    &::before {
-      content: counter(li);
-      display: inline-block;
-      width: 1em;
-      margin-right: 0.5em;
-      margin-left: -1.6em;
-      text-align: right;
-      direction: rtl;
-      font-weight: $bold-weight;
-      font-size: $small-font-size;
-    }
-  }
-}
-
-ul,
-ol {
-  margin-top: 0;
-  margin-left: $spacing-full;
-}
-
 li {
   padding-bottom: 1px;
   padding-top: 1px;
@@ -313,16 +279,6 @@ small {
   font-size: $small-font-size;
 }
 
-// Superscript
-sup {
-  border-radius: 10%;
-  top: -3px;
-  left: 2px;
-  font-size: small;
-  position: relative;
-  margin-right: 2px;
-}
-
 // Table
 .overflow-table {
   overflow-x: auto;
@@ -374,16 +330,4 @@ mark,
 ::selection {
   background: #fffba0;
   color: $black;
-}
-
-// Github Gist clear border
-.gist {
-  table {
-    border: 0;
-
-    tr,
-    td {
-      border: 0;
-    }
-  }
 }

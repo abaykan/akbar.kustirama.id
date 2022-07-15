@@ -215,14 +215,6 @@
   }
 }
 
-// Content
-.posts-item-note {
-  font-size: $base-font-size;
-  font-weight: 700;
-  margin-bottom: 5px;
-  color: $black;
-}
-
 // List of posts
 .post-item {
   display: flex;
@@ -313,16 +305,6 @@
     line-height: 1.1;
     color: $black;
     text-shadow: 1px 0px 0px $text-link-blue;
-  }
-  .phrase {
-    color: $text-base-color;
-  }
-  .solution {
-    color: $text-link-blue;
-    letter-spacing: 0.5px;
-  }
-  .solution:hover {
-    color: $text-link-blue-active;
   }
 }
 
